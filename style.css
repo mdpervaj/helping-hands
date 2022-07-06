@@ -44,7 +44,7 @@ h1 {
 
 }
 
-.part-two {
+.main-three-heading {
     text-align: center;
     margin-top: 100px;
 }
@@ -176,11 +176,11 @@ input {
     font-weight: 400;
 }
 
-.footer {
+.helping-hand {
     text-align: center;
-    background-color: rgba(255, 68, 0, 0.801);
-    padding: 50px;
-    font-size: 20px;
-    font-weight: bold;
+    background-color: orangered;
+    margin: 0;
+    padding: 15px;
+    font-weight: 500;
     color: white;
 }
