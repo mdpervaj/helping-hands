@@ -163,7 +163,7 @@ input {
 
 .email {
     padding: 8px 16px;
-    margin-left: 430px;
+    margin-left: 500px;
     background-color: rgba(128, 128, 128, 0.466);
     outline: none;
     border-style: none;
@@ -174,4 +174,13 @@ input {
     padding: 5px 10px;
     color: white;
     font-weight: 400;
+}
+
+.footer {
+    text-align: center;
+    background-color: rgba(255, 68, 0, 0.801);
+    padding: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
 }
