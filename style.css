@@ -7,11 +7,7 @@ body {
     margin: 0%;
 }
 
-input:focus,
-textarea:focus,
-select:focus {
-    outline: none;
-}
+
 
 .bg-image {
 
@@ -82,13 +78,15 @@ h1 {
 }
 
 input {
-    padding-left: 575px;
+    padding-left: 15px;
     padding-bottom: 7px;
+    margin-left: 563px;
     border-style: none;
     background-color: white;
     font-size: 17px;
     font-weight: bold;
     color: gray;
+    outline: none;
 }
 
 
@@ -155,4 +153,25 @@ input {
     font-weight: 900;
     color: white;
 
+}
+
+.emile-subscraibe {
+    display: flex;
+    margin-top: 120px;
+    margin-bottom: 200px;
+}
+
+.email {
+    padding: 8px 16px;
+    margin-left: 430px;
+    background-color: rgba(128, 128, 128, 0.466);
+    outline: none;
+    border-style: none;
+}
+
+.subscraibe {
+    background-color: orangered;
+    padding: 5px 10px;
+    color: white;
+    font-weight: 400;
 }
