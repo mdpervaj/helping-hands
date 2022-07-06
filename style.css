@@ -42,6 +42,34 @@ h1 {
 
 }
 
-.donate-today {
+.part-two {
     text-align: center;
+    margin-top: 100px;
+}
+
+.heading-two {
+    font-size: 45px;
+    font-weight: 800;
+}
+
+.doller {
+    display: flex;
+    font-weight: 700;
+    font-size: 20px;
+    margin-left: 300px;
+    margin-top: 60px;
+    color: gray;
+}
+
+.all-doller {
+    padding-left: 50px;
+    margin-bottom: 50px;
+}
+
+.coloring-doller {
+    color: rgb(145, 255, 0);
+    border: 3px solid;
+    padding: 25px 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgb(145, 255, 0);
 }
