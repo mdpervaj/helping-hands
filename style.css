@@ -25,7 +25,7 @@ select:focus {
 h1 {
     font-weight: 900;
     font-size: 60px;
-    color: rgb(145, 255, 0);
+    color: rgb(255, 145, 0);
 }
 
 .top-heading {
@@ -40,7 +40,7 @@ h1 {
 
 .link-bottom {
     text-decoration: none;
-    background-color: rgb(145, 255, 0);
+    background-color: orangered;
     padding: 10px 15px;
     border-radius: 10px;
     font-weight: 900;
@@ -56,7 +56,7 @@ h1 {
 .heading-two {
     font-size: 45px;
     font-weight: 800;
-    color: rgb(145, 255, 0);
+    color: orangered;
 }
 
 .doller {
@@ -74,11 +74,11 @@ h1 {
 }
 
 .coloring-doller {
-    color: rgb(145, 255, 0);
+    color: orangered;
     border: 3px solid;
     padding: 25px 20px;
     border-radius: 5px 20px;
-    box-shadow: 5px 5px 10px rgb(145, 255, 0);
+    box-shadow: 5px 5px 10px gray;
 }
 
 input {
@@ -94,7 +94,7 @@ input {
 
 .donate-bottom-link {
     text-decoration: none;
-    background-color: rgb(145, 255, 0);
+    background-color: orangered;
     padding: 10px 15px;
     border-radius: 10px;
     font-weight: 900;
@@ -112,12 +112,47 @@ input {
     padding-right: 150px;
     padding-left: 150px;
 
+
 }
 
 .plan-item {
     margin: 20px;
     box-shadow: 10px 10px 8px gray;
-    border: 5px solid rgb(145, 255, 0);
+    border: 5px solid orangered;
     padding: 15px;
     border-radius: 5px 25px;
+}
+
+.their-live-your-donate {
+    display: flex;
+    margin-top: 200px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.boy-image {
+    width: 100%;
+    margin-left: 60px;
+
+}
+
+.your-donate-heading {
+    font-size: 40px;
+    font-weight: 600;
+    color: orangered;
+}
+
+.boy-image {
+    border: 5px solid orangered;
+    border-radius: 5px 10px;
+}
+
+.contribute {
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 15px;
+    border-radius: 10px;
+    font-weight: 900;
+    color: white;
+
 }
